@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thedemir
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me ironnurullah@gmail.com
 
 <!---
